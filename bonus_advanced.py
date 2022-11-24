@@ -17,3 +17,4 @@ elif service_duration>6 and service_duration<=10:
     print(salary+bonus2)    
 elif service_duration<6:
     print(salary+bonus3)    
+

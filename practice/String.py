@@ -1,6 +1,10 @@
-a= "Ram"#(length=3 whose counting starts from 0, So here R syntax has 0 , a has 1 and m has 2 face value)
+# "Array = bucket which contains variables of same type"
+import string
+
+
+a= "Ram" #(length=3 whose counting starts from 0, So here R syntax has 0 , a has 1 and m has 2 face value)
 b= " aam khata hai."
-c=a + b#(Concatenating two strings)
+c=a + b #(Concatenating two strings)
 print(c)
 
 #String slicing
@@ -37,3 +41,10 @@ print(story.capitalize())#capitalize first letter of string and all others small
 print(story.find("shubham"))#finds the word and returns the index of first occurence of that word in that string
 print(story.find("Shubham"))
 print(story.replace("Shubham","Shubh07"))# replace old word with new word in entire string.
+
+##string.format
+a=5
+b=10
+c=15
+string="A : {}, B :{}, C : {}"
+print(string.format(a,c,b))

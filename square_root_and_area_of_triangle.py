@@ -1,6 +1,5 @@
 #write a program to find square root of a number
-p=input("Enter a no.")
-p=int(p)
+p=int(input("Enter a no."))
 q=p**0.5
 print("Square root of the no is", q)
 #find area of a triangle
