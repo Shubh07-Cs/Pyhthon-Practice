@@ -1,0 +1,6 @@
+name=("shubham","kumar","rai")
+list=list(name)
+list.reverse()
+print(tuple(list))
+naam=("shubham",)
+print(naam)
