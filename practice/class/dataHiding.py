@@ -9,5 +9,5 @@ class Person:
         return self.__age
 
 Person1=Person("ABC",22)
- print(Person1.__name)        
+# print(Person1.__name)        
 print(Person1._Person__name)

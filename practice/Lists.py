@@ -42,3 +42,14 @@ print(Example)
 #(file name).remove(_) - wil remove given element
 Example.remove(43)
 print(Example)
+#extend list
+colors=["red","black"]
+Example.extend(colors)
+print(Example)
+#clear whole list
+Example.clear()
+for x in range(len(Example)):
+    print(Example[x])
+    x+=1    
+#del delete entire list    
+#del Example
