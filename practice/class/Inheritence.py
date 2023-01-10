@@ -17,3 +17,8 @@ obj1=B()
 # obj3=C()
 # obj3.method1()
 # print(obj3)
+
+
+# obj4=C()
+# obj4.method1()
+# print(obj4)
