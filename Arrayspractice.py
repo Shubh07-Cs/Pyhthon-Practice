@@ -1,4 +1,5 @@
 MyCSTeacher="My python teacher's name is Mr Adhiraj. He is a game developer."
+
 print(MyCSTeacher[5])
 print(MyCSTeacher[-3])
 print(MyCSTeacher[-0])
