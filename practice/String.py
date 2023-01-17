@@ -8,9 +8,9 @@ c=a + b #(Concatenating two strings)
 print(c)
 
 #String slicing
-print(a[0])
 print(a[1])
 print(a[2])
+print(a[3])
 # a is name of the variable containing that string
 # We cant change letter like we do in integer
 # like a[1]=j --> this is not gonna work
