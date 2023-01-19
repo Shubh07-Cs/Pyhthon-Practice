@@ -7,3 +7,6 @@ elif a in c:
     print("Almost there!")
 else:
     print("BAD BOY")    
+#deknelnled hewhej oirjdojdrsoj hwejhoejoefjorjeew
+#mnfjrep jej4d; wejpws2 pk34 weojusujs e2u0sijp23i
+#fnfjj rejokperker jerperjpr rjepkp pokcre pk
